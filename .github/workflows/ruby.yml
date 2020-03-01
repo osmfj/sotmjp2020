@@ -22,7 +22,7 @@ jobs:
         bundle install --jobs 4 --retry 3
         bundle exec jekyll build -b 2020
         rm -rf ../stateothemap.master
-        git clone https://${{gh_token}}@github.com/osmfj/stateofthemap ../stateofthemap.master
+        git clone https://$gh_token@github.com/osmfj/stateofthemap ../stateofthemap.master
         mkdir -p ../stateofthemap.master/2020/
         cp -R 2020/* ../stateofthemap.master/2020/
         cd ../stateofthemap.master
