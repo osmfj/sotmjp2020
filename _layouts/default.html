@@ -21,7 +21,7 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <img src="{{ '/assets/images/sotmjapan-logo.png' }}" />
+      <img src="{{ '/assets/images/sotmjapan-logo.png' | relative_url }}" />
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="/" class="btn">過去の開催へ</a>
