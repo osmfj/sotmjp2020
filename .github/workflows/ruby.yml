@@ -1,0 +1,27 @@
+name: Ruby
+
+on: 
+  push:
+   branches:
+     - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Build and update stateofthemap.jp
+      run: |
+        gem install bundler
+        bundle install --jobs 4 --retry 3
+        bundle exec jekyll build -b 2020
+        rm -rf ../stateothemap.master
+        git clone https://github.com/osmfj/stateofthemap ../stateofthemap.master
+        
+        
