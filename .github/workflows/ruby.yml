@@ -22,6 +22,15 @@ jobs:
         bundle install --jobs 4 --retry 3
         bundle exec jekyll build -b 2020
         rm -rf ../stateothemap.master
-        git clone https://github.com/osmfj/stateofthemap ../stateofthemap.master
-        
+        git clone https://${{gh_token}}@github.com/osmfj/stateofthemap ../stateofthemap.master
+        mkdir -p ../stateofthemap.master/2020/
+        cp -R 2020/* ../stateofthemap.master/2020/
+        cd ../stateofthemap.master
+        git config user.email info@osmf.jp
+        git config user.name "OSMFJ automated builder"
+        git add -A 2020
+        git commit -m "Update from travis sotmjp2020/$TRAVIS_BUILD_NUMBER"
+        git push --quiet origin master > /dev/null 2>&1
+      env:
+        gh_token: ${{ secrets.GH_TOKEN }}
         
