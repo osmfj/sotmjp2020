@@ -1,0 +1,25 @@
+language: ruby
+
+install:
+  - bundle install
+  - rm -rf ../stateothemap.master
+  - git clone https://${GH_TOKEN}@github.com/osmfj/stateofthemap ../stateofthemap.master
+
+script:
+  - bundle exec jekyll build -b 2020
+  - cp -R 2020/* ../stateofthemap.master/2020/
+  - cd ../stateofthemap.master
+  - git config user.email info@osmf.jp
+  - git config user.name "OSMFJ automated builder"
+  - git add -A 2020
+  - git commit -m "Update from travis sotmjp2020/$TRAVIS_BUILD_NUMBER"
+  - git push --quiet origin master > /dev/null 2>&1
+
+env:
+  global:
+    secure: uydSm49j6oisjAtNz7mweiN+ApdD2qBC93wsvNsxkVSrcngFKrK3gSZBE77sh3pyGXd2mizf8yxBePd104NuCEl+n/qS6PvJeGJ7Moxk+Rr2UqJ/kAMFb34bvFoZ87pDp31XTB1uANygyCtVJGHkFNxqmpTxg1YO80IzQ2xqOjQqXKVN1mUaa8PXUy0s/hoTekk/sJChMnZ1upxCk1HkpBtAXN+Y9jo8c43HqcUTXBTWO2PVs7EyoVrevZkVtNRBPliudnDCrX/bacqtiso4eT0qrzCdR1eEG05cPvnjGYzohuZBI40GGGPkCCGbiBYZHSpd7UdRc69rHlE7IQuVLshFrXNyIawP4LNjBnbPH4Ia/e+Gl9rtdkZ2HItQwr76ogs+DjMANNgviS0QPpr3TpqfdkcC0DGOxWrPRfZTC5KA+PrbDGM6B5I2sLlum15kpMfI4v7ELYSpRE6tpKutltbQRKqDQ5Wi/djrlIiQvDQh3MA3nuxlZZshBtwUZ4PS4sx119+/pkqWH2Bq7VAaBICTvROLL8DCD+7Tuw0DV1j6WP7kb5CkVKqFVgkBgixGRlyYZNCp1Lo4aG/qzXfs0D1jJtautK7KvnqgyP5m81y/BPVQSS5KvxEPq5484EclcifRYU3yvlMLvpCBH5Lwc4Pc02woUAETrQjph+XKivc=
+
+# safelist
+branches:
+  only:
+  - master
