@@ -21,7 +21,7 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 
 ## 開催概要
 
-- 日程: 2020年11月7日(土曜日)
+- 日程: 2020年11月7日(土曜日) 13:00(JST) 〜
 - 主催: [State of the Map Japan 2020 実行委員会](#実行委員会について)
 - 共催: [一般社団法人OpenStreetMap Foundation Japan](https://osmf.jp/)
 - 後援: OSGeo日本支部
