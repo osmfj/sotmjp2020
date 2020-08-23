@@ -24,16 +24,16 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 - 日程: 2020年11月7日(土曜日) 13:00(JST) 〜
 - 主催: [State of the Map Japan 2020 実行委員会](#実行委員会について)
 - 共催: [一般社団法人OpenStreetMap Foundation Japan](https://osmf.jp/)
-- 後援: OSGeo日本支部
-- 共同開催: FOSS4G Japan 2020 Online (主催: [OSGeo.JP](https://www.osgeo.jp/))
+- 後援: [OSGeo日本支部](https://www.osgeo.jp/)
+- 共同開催: FOSS4G Japan 2020 Online (主催: OSGeo日本支部)
 - 開催場所: Youtube Live/Zoomなどのオンラインツール
 
 参加者の属性としては、OSM編集者、OSMデータ利用企業、地理空間情報技術者、学術利用者、行政関係者などが中心となります。
 地方からの参加・発表も予定しています。
 
-# 募集要項
+# 募集要項(CFP)
 
-募集要項は現在作成中です。LTはもちろんありますので、話したいネタがある人は奮ってご参加ください。
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLScVHdMlnsUVzXm0LrqC84D5Sg_OrhtsBaQjUzqYidbF04on7w/viewform)にて発表の募集をしています。奮ってご参加ください！
 
 # 実行委員会について
 
