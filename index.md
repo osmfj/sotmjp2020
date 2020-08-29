@@ -51,10 +51,26 @@ OpenStreetMapに関する自由な発表が可能です。
 
 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScVHdMlnsUVzXm0LrqC84D5Sg_OrhtsBaQjUzqYidbF04on7w/viewform)にて発表の募集をしています。奮ってご参加ください！
 
+# ボランティア募集
+
+State of the Map Japan 2020 ではオンライン配信のサポートなどをしてくれるボランティアを募集しています。
+
+オンライン配信の方法などに興味ある方、大歓迎です！
+
+## 募集内容
+
+- 期間:
+  - 11月7日(土) 終日
+  - 事前に準備のため打ち合わせを行います(日程別途連絡)。
+- 業務内容: 
+  - 配信チェック・質問集約など
+- 参加方法:
+  - OpenStreetMap Japan Slack に [Join](https://bit.ly/OSM_Japan) して `#70_sotmjp2020` へご参加ください。
+
 # 実行委員会について
 
-State of the Map Japan 2020 実行委員会は OSM Japan Slack にて運用をしています。
-実行委員会に興味のある方は OSM Japan Slack に [Join](https://bit.ly/OSM_Japan) して `#70_sotmjp2020` へご参加ください。
+State of the Map Japan 2020 実行委員会は OpenStreetMap Japan Slack にて運用をしています。
+実行委員会に興味のある方は OpenStreetMap Japan Slack に [Join](https://bit.ly/OSM_Japan) して `#70_sotmjp2020` へご参加ください。
 また、議事録などは原則公開をしています。
 
 - 議事録など: [Hackmd](https://hackmd.io/team/sotmjp2020)
