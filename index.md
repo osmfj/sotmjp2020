@@ -31,6 +31,21 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 参加者の属性としては、OSM編集者、OSMデータ利用企業、地理空間情報技術者、学術利用者、行政関係者などが中心となります。
 地方からの参加・発表も予定しています。
 
+# 講演
+
+## 基調講演
+
+![古橋大地](assets/images/mapconcerge.jpg)
+
+古橋大地 (青山学院大学教授/NPO法人クライシスマッパーズ・ジャパン理事長/MAPconcierge株式会社代表取締役)
+
+## State of the Map Japan 2020 / FOSS4G Japan 2020 Online 合同講演
+
+![宮内隆行](assets/images/miya0001.jpg)
+
+宮内隆行 ([株式会社 Geolonia ](https://geolonia.com/)代表)
+
+
 # 募集要項(CFP)
 
 State of the Map Japan 2020で普段の活動内容・成果、課題や協力者の募集をしてみませんか？
