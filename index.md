@@ -63,6 +63,7 @@ OpenStreetMapに関する自由な発表が可能です。
 - 発表種類: 通常(15分)、ライトニングトーク(5分)
 - 対象者: 大人から子どもまでどなたでも
 - 発表内容: 初級マッパー向けから専門家向けまで
+- 発表申し込み期限: 2020年10月11日(月)
 
 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScVHdMlnsUVzXm0LrqC84D5Sg_OrhtsBaQjUzqYidbF04on7w/viewform)にて発表の募集をしています。奮ってご参加ください！
 
