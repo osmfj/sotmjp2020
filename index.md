@@ -32,6 +32,12 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 参加者の属性としては、OSM編集者、OSMデータ利用企業、地理空間情報技術者、学術利用者、行政関係者、シビックテックを始めとするコミュニティなどが中心となります。
 地方からの参加・発表も予定しています。
 
+## スポンサー
+
+[![Georepublic](assets/images/georepublic.png)](https://georepublic.info/ja/)
+[![MIERUNE](assets/images/MIERUNE_logo02.png)](https://mierune.co.jp/)
+[![株式会社ソフトウェアファクトリー](assets/images/softwarefactory.png)](http://www.sw-factory.com/)
+
 ## 参加申し込み
 
 [Peatix](https://sotmjp2020online.peatix.com) にて参加申し込みを行っております。
@@ -55,24 +61,7 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 
 # 募集要項(CFP)
 
-State of the Map Japan 2020で普段の活動内容・成果、課題や協力者の募集をしてみませんか？
-
-OpenStreetMapに関する自由な発表が可能です。
-
-- マッピング(地域的なものや成果発表など)
-- アプリケーション開発
-- データ分析
-- ビジネス事例
-- などなど
-
-発表は以下の概要に沿って行います。
-
-- 発表種類: 通常(15分)、ライトニングトーク(5分)
-- 対象者: 大人から子どもまでどなたでも
-- 発表内容: 初級マッパー向けから専門家向けまで
-- 発表申し込み期限: 2020年10月11日(月)
-
-[Google Form](https://docs.google.com/forms/d/e/1FAIpQLScVHdMlnsUVzXm0LrqC84D5Sg_OrhtsBaQjUzqYidbF04on7w/viewform)にて発表の募集をしています。奮ってご参加ください！
+CFPの募集は締め切りました。
 
 # ボランティア募集
 
