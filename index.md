@@ -76,7 +76,8 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 <tr>
 <th>13:10〜13:30</th>
 <td><a href="#keynote"><b>基調講演</b></a><br />
-古橋大地 | 青山学院大学教授/NPO法人クライシスマッパーズ・ジャパン理事長/MAPconcierge株式会社代表取締役</td>
+古橋大地 | 青山学院大学教授/NPO法人クライシスマッパーズ・ジャパン理事長/MAPconcierge株式会社代表取締役<br />
+The Past, Present, and Future of OpenStreetMap Japan 〜 一億総伊能化は実現できるのか 〜</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
@@ -172,8 +173,10 @@ OmegaTで、OSM Wikiを快適に翻訳しよう</td>
 
 # セッション紹介
 
-## 基調講演: {#keynote}
+## 基調講演: The Past, Present, and Future of OpenStreetMap Japan 〜 一億総伊能化は実現できるのか 〜 {#keynote}
 ### 発表者: 古橋大地 (青山学院大学教授/NPO法人クライシスマッパーズ・ジャパン理事長/MAPconcierge株式会社代表取締役) 
+
+2008年からOpenStreetMapに参画し、以降12年間に渡ってOSMに関わる国内外の動きに関わるとともに、OpenStreetMap を用いた人道支援チーム HOT での活動、日本国内でのクライシスマッピング活動の主導を行なうなど、OSMと社会のつながりを強固にする具体的な社会実装を中心に、いままでの活動を振り返り、現状を共有するとともに、未来のOpenStreetMapについて、その想いを語ります。
 
 ## スポンサーセッション1: {#sponsor1}
 ### 発表者: MIERUNE
