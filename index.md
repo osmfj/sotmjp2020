@@ -27,6 +27,7 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 - 後援: [OSGeo日本支部](https://www.osgeo.jp/)
 - 共同開催: FOSS4G Japan 2020 Online (主催: OSGeo日本支部)
 - 開催場所: Youtube Live/Zoomなどのオンラインツール
+- オンラインイベントサポート: [OSPN.jp](https://www.ospn.jp/)
 - プレイベント: [Geoweek and Weekend 2020](https://osmfj.github.io/geoweek_and_weekend_2020/)
 
 参加者の属性としては、OSM編集者、OSMデータ利用企業、地理空間情報技術者、学術利用者、行政関係者、シビックテックを始めとするコミュニティなどが中心となります。
