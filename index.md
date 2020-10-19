@@ -36,7 +36,11 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 ## スポンサー
 
 [![Georepublic](assets/images/georepublic.png)](https://georepublic.info/ja/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Microsoft](assets/images/microsoft.png)](https://www.microsoft.com/ja-jp/)
+
 [![MIERUNE](assets/images/MIERUNE_logo02.png)](https://mierune.co.jp/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![株式会社ソフトウェアファクトリー](assets/images/softwarefactory.png)](http://www.sw-factory.com/)
 
 ## 参加申し込み
