@@ -99,16 +99,11 @@ MIERUNE</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<th>14:00〜14:15</th>
-<td>調整中</td>
-<td></td>
-</tr>
-<tr>
-<th>14:15〜14:20</th>
+<th>14:00〜14:10</th>
 <td colspan="2">休憩</td>
 </tr>
 <tr>
-<th>14:20〜14:35</th>
+<th>14:10〜14:25</th>
 <td><a href="#presentation_a1"><b>一般講演A1</b></a><br />
 山下康成 / 京都府向日市<br />
 マッピングパーティーを開催しよう！
@@ -119,7 +114,7 @@ MIERUNE</td>
 </td>
 </tr>
 <tr>
-<th>14:35〜14:50</th>
+<th>14:25〜14:40</th>
 <td><a href="#presentation_a2"><b>一般発表A2</b></a><br />
 吉田涼香 / YouthMappersAGU<br />
 日本にマッピングを広げる為に</td>
@@ -128,7 +123,7 @@ MIERUNE</td>
 Code for Kusatsu活動紹介</td>
 </tr>
 <tr>
-<th>14:50〜15:05</th>
+<th>14:40〜14:55</th>
 <td><a href="#presentation_a3"><b>一般発表A3</b></a><br />
 和田清人<br />
 お城マッピングでuMapやってみた。</td>
@@ -137,7 +132,7 @@ Code for Kusatsu活動紹介</td>
 OmegaTで、OSM Wikiを快適に翻訳しよう</td>
 </tr>
 <tr>
-<th>15:05〜15:20</th>
+<th>14:55〜15:10</th>
 <td><a href="#presentation_a4"><b>一般発表A4</b></a><br />
 瀬戸寿一 / 東京大学空間情報科学研究センター<br />
 日本のOSMデータ作成とMapperの時系列推移</td>
@@ -146,25 +141,26 @@ OmegaTで、OSM Wikiを快適に翻訳しよう</td>
 オープンデータソンのご紹介！</td>
 </tr>
 <tr>
-<th>15:20〜15:50</th>
+<th>15:10〜15:40</th>
 <td><a href="#lightning_talk"><b>Lightning Talk</b></a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<th>15:50〜16:50</th>
+<th>15:40〜16:40</th>
 <td><a href="#panel_discussion"><b>パネルディスカッション</b></a><br />
 テーマ: 「地域色豊かなOSMトーク～地元での活動-地図を作る使う、これからのOSM」
 </td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<th>16:50〜17:05</th>
+<th>16:40〜16:55</th>
 <td><a href="#joint_session"><b>State of the Map Japan 2020 / FOSS4G Japan 2020 Online 合同講演</b></a><br />
-宮内隆行 / 株式会社 Geolonia 代表</td>
+宮内隆行 / 株式会社 Geolonia 代表<br />
+オープンソースでつくるオープンソースっぽい地図の会社の挑戦</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
-<th>17:05〜17:10</th>
+<th>16:55〜17:00</th>
 <td>クロージング</td>
 <td>&nbsp;</td>
 </tr>
@@ -259,8 +255,11 @@ YouthMapperaAGUとして1年間の活動報告及び今後の展開について
 - 福岡市・長崎市 / 横山哲人 ([a-yokoyama](https://www.osm.org/user/a-yokoyama)): （株）九州地域情報化研究所、Code for Nagasaki
 - 司会: [ikiya](https://www.openstreetmap.org/user/ikiya): OSMFJ
 
-## State of the Map Japan 2020 / FOSS4G Japan 2020 Online 合同講演 {#joint_session}
+## State of the Map Japan 2020 / FOSS4G Japan 2020 Online 合同講演: オープンソースでつくるオープンソースっぽい地図の会社の挑戦 {#joint_session}
 ### 発表者: 宮内隆行 (株式会社 Geolonia 代表)
+
+Geolonia は、オープンソースコミュニティで出会ったメンバーが集まって創業した社員全員がリモートワークの会社です。
+様々な社会課題をオープンソースっぽく解決する企業を目指して、現在 Geolonia が挑戦する各種の取り組みをご紹介させていただきます。
 
 # ボランティア募集
 
