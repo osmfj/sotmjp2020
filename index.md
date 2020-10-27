@@ -104,7 +104,7 @@ MIERUNE</td>
 </tr>
 <tr>
 <th>14:10〜14:25</th>
-<td><a href="#presentation_a1"><b>一般講演A1</b></a><br />
+<td><a href="#presentation_a1"><b>一般発表A1</b></a><br />
 山下康成 / 京都府向日市<br />
 マッピングパーティーを開催しよう！
 </td>
