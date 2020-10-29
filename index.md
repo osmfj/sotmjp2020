@@ -166,7 +166,7 @@ OmegaTで、OSM Wikiを快適に翻訳しよう</td>
 </tr>
 <tr>
 <th>18:00〜</th>
-<td>懇親会</td>
+<td><a href="https://sotmjp2020-foss4gjp2020-party.peatix.com/">State of the Map 2020 & FOSS4G Japan 2020 Online 合同懇親会</a></td>
 <td>&nbsp;</td>
 </tr>
 </tbody>
