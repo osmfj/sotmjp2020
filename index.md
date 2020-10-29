@@ -255,6 +255,8 @@ YouthMapperaAGUとして1年間の活動報告及び今後の展開について
 - 福岡市・長崎市 / 横山哲人 ([a-yokoyama](https://www.osm.org/user/a-yokoyama)): （株）九州地域情報化研究所、Code for Nagasaki
 - 司会: [ikiya](https://www.openstreetmap.org/user/ikiya): OSMFJ
 
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/ja/map/sotm-japan-2020-online_515926?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/ja/map/sotm-japan-2020-online_515926">フルスクリーン表示</a></p>
+
 ## State of the Map Japan 2020 / FOSS4G Japan 2020 Online 合同講演: オープンソースでつくるオープンソースっぽい地図の会社の挑戦 {#joint_session}
 ### 発表者: 宮内隆行 (株式会社 Geolonia 代表)
 
