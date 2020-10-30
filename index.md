@@ -88,7 +88,8 @@ The Past, Present, and Future of OpenStreetMap Japan 〜 一億総伊能化は�
 <tr>
 <th>13:30〜13:45</th>
 <td><a href="#sponsor1"><b>スポンサーセッション1</b></a><br />
-MIERUNE</td>
+井口奏大 / 株式会社MIERUNE<br />
+北海道からOSMサービスを展開する 謎の組織に加入したらいつの間にか マッパーになっていた件について</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
@@ -165,6 +166,11 @@ OmegaTで、OSM Wikiを快適に翻訳しよう</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
+<th>17:00〜18:00</th>
+<td>懇親会前交流会</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
 <th>18:00〜</th>
 <td><a href="https://sotmjp2020-foss4gjp2020-party.peatix.com/">State of the Map 2020 & FOSS4G Japan 2020 Online 合同懇親会</a></td>
 <td>&nbsp;</td>
@@ -179,8 +185,10 @@ OmegaTで、OSM Wikiを快適に翻訳しよう</td>
 
 2008年からOpenStreetMapに参画し、以降12年間に渡って国内外のOSMコミュニティ活動に関わる中で、OSMを用いた人道支援チーム HOT での活動、日本国内でのクライシスマッピング活動の主導を行なうなど、OSMと社会のつながりを強固にする具体的な社会実装を中心に活動してきました。いままでの活動を振り返り、現状を共有するとともに、未来のOpenStreetMapについて、その想いを語ります。
 
-## スポンサーセッション1: {#sponsor1}
-### 発表者: MIERUNE
+## スポンサーセッション1: 北海道からOSMサービスを展開する 謎の組織に加入したらいつの間にか マッパーになっていた件について {#sponsor1}
+### 発表者: 井口奏大 (株式会社MIERUNE)
+
+
 
 ## スポンサーセッション2: 日本のタイルサーバの現状 {#sponsor2}
 ### 発表者: 松澤太郎 (Georepublic/OSMFJ/OSGeo.JP/JUS)
