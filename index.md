@@ -49,6 +49,13 @@ SotM Japanでは、全世界版のSotMの趣旨および価値観をそのまま
 
 参加方法は Zoom / Youtube Live のどちらかをお選びください。
 
+[Youtube Liveは本サイトから](#youtube_live)もご覧になることができます。
+
+## Code of Conduct
+
+State of the Map Japan 2020では、皆様に心地よく、そして楽しく参加していただけるよう、行動規範を設けています。私たちは、性別、年齢、性的指向、身体的特徴、人種や職業、思想や信条や生き方、技術力や技術の選択・手法などのさまざまな個人のありかたに対して、ハラスメントを許容しません。もしハラスメントや侮辱的言動、イベントへの妨害となる行為や周囲を不快にする言動を取った場合、私たちは当該参加者に退出を求めたり、今後の参加をお断りしたり、法的措置をとる場合があります。私たちは、State of the Map Japan 2020の全ての参加者に対して，行動規範に従うことを求めています。
+行動規範の全文は[こちらのページ](./coc.html)でご覧ください。 
+
 # 講演
 
 ## 基調講演
@@ -270,6 +277,16 @@ YouthMapperaAGUとして1年間の活動報告及び今後の展開について
 
 Geolonia は、オープンソースコミュニティで出会ったメンバーが集まって創業した社員全員がリモートワークの会社です。
 様々な社会課題をオープンソースっぽく解決する企業を目指して、現在 Geolonia が挑戦する各種の取り組みをご紹介させていただきます。
+
+# Youtube Live 配信 {#youtube_live}
+
+## A会場
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jXGSnroqk8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## B会場
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7SJEX0JvtE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # ボランティア募集
 
