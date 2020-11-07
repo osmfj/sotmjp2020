@@ -137,7 +137,7 @@ The Past, Present, and Future of OpenStreetMap Japan 〜 一億総伊能化は�
 <tr>
 <th>14:25〜14:40</th>
 <td><a href="#presentation_a2"><b>一般発表A2</b></a><br />
-吉田涼香 / YouthMappersAGU<br />
+吉田涼香、八尋舞美 / YouthMappersAGU<br />
 日本にマッピングを広げる為に</td>
 <td><a href="#presentation_b2"><b>一般発表B2</b></a><br />
 奥村美佳(おくみか) / Code for Kusatsu<br />
@@ -221,7 +221,7 @@ OmegaTで、OSM Wikiを快適に翻訳しよう</td>
 世界的に魅力的な都市である京都、京都を歩いて地図を作り上げていく魅力をお伝えします
 
 ## 一般発表A2: 日本にマッピングを広げる為に {#presentation_a2}
-### 発表者: 吉田涼香 (YouthMappersAGU)
+### 発表者: 吉田涼香、八尋舞美 (YouthMappersAGU)
 
 YouthMapperaAGUとして1年間の活動報告及び今後の展開について
 
