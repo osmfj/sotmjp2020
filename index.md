@@ -67,7 +67,7 @@ State of the Map Japan 2020では、皆様に心地よく、そして楽しく�
 
 ## ハッシュタグ
 
-`#sotmjp2020` ([Twitter](https://twitter.com/hashtag/sotmjp))
+`#sotmjp` ([Twitter](https://twitter.com/hashtag/sotmjp))
 
 # 講演
 
